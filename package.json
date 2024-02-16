@@ -19,5 +19,8 @@
   "homepage": "https://github.com/riley0122/copydirectory#readme",
   "dependencies": {
     "commander": "^12.0.0"
+  },
+  "bin": {
+    "copydirectory": "./index.js cp"
   }
 }
