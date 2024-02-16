@@ -1,0 +1,23 @@
+{
+  "name": "copydirectory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riley0122/copydirectory.git"
+  },
+  "author": "Riley0122",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/riley0122/copydirectory/issues"
+  },
+  "homepage": "https://github.com/riley0122/copydirectory#readme",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
