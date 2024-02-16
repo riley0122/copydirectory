@@ -11,7 +11,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 program
-    .name("CopyDirectory")
+    .name("copyDir")
     .version("1.0.0")
 
 const copyDirectory = (from, to) => {
