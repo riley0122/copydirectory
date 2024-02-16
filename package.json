@@ -1,5 +1,5 @@
 {
-  "name": "copydir",
+  "name": "cpdirectory",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,6 +22,6 @@
   },
   "bin": {
     "copydirectory": "./index.js",
-    "copydir": "./index.js"
+    "cpDirectory": "./index.js"
   }
 }
